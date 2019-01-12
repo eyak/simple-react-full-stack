@@ -1,0 +1,3 @@
+[submodule "demo-data"]
+	path = demo-data
+	url = https://github.com/eyak/demo-data
